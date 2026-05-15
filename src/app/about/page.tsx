@@ -35,7 +35,7 @@ export default function AboutPage() {
             <div className="pull-quote-wrap">
               <div className="pull-quote">
                 <blockquote>&ldquo;Our focus is on projects that are well-engineered, honestly managed, and built to last.&rdquo;</blockquote>
-                <cite>— A. Venkata Rao, Founder &amp; Managing Director</cite>
+                <cite>— V. Sukanya, Managing Director &amp; CEO</cite>
               </div>
             </div>
           </div>
