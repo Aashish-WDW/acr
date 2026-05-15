@@ -11,7 +11,7 @@ export default function SiteFooter() {
           </p>
           <div className="footer-status">
             <div className="status-dot" />
-            <span>Channe Kothapalli plant operational</span>
+            <span>Chennekothapalli plant operational</span>
           </div>
         </div>
         <div>

@@ -79,7 +79,7 @@ export default function HomePage() {
             </h1>
             <p className="hero-sub">
               We develop, build, and operate solar power projects. Our 2.5 MW ground-mounted plant
-              in Channe Kothapalli is fully commissioned and connected to the grid.
+              in Chennekothapalli is fully commissioned and connected to the grid.
             </p>
             <div className="hero-ctas">
               <button type="button" className="btn-primary" onClick={() => router.push("/projects")}>VIEW PROJECTS</button>

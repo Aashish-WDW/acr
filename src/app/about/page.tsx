@@ -28,7 +28,7 @@ export default function AboutPage() {
         <div className="narrative-grid">
           <div className="narrative-body">
             <p><strong>AVR Green Energy Pvt. Ltd.</strong> is a solar energy developer focused on utility-scale and commercial projects. We cover the full project lifecycle — from site identification and development through to construction, commissioning, and long-term operations.</p>
-            <p>Our first project, a <strong>2.5 MW ground-mounted solar plant in Channe Kothapalli</strong>, is fully operational. The plant supplies power to the local grid, serves over 3,500 households, and reduces CO₂ emissions by approximately 4,200 tonnes per year.</p>
+            <p>Our first project, a <strong>2.5 MW ground-mounted solar plant in Chennekothapalli</strong>, is fully operational. The plant supplies power to the local grid, serves over 3,500 households, and reduces CO₂ emissions by approximately 4,200 tonnes per year.</p>
             <p>We work directly with landowners, grid operators, and local communities throughout each project. Plants are designed and built for a 25-year operational life.</p>
           </div>
           <div>
@@ -81,10 +81,10 @@ export default function AboutPage() {
         <div className="section-heading reveal reveal-d1">The Board</div>
         <div className="leadership-grid">
           {[
-            { name: "V. Sukanya", role: "Managing Director & CEO", file: "V.%20Sukanya%20M.A%20Enterprenuer.jpeg" },
-            { name: "M. Kamakshi", role: "Director", file: "M.%20Kamakshi%20B.A.jpeg" },
+            { name: "V. Sukanya", role: "Managing Director & CEO", file: "V.%20Sukanya%20M.A%20Enterprenuer.png" },
+            { name: "M. Kamakshi", role: "Director", file: "M.%20Kamakshi%20B.A.png" },
             { name: "Kala Jyothi", role: "Director", file: "Kala%20Jyothi%20%20B.A.jpeg" },
-            { name: "Akshar Aditya", role: "Director", file: "Akshar%20Aditya%20%20B.E.jpeg" },
+            { name: "Akshar Aditya", role: "Director", file: "Akshar%20Aditya%20%20B.E.png" },
           ].map(({ name, role, file }) => (
             <div key={name} className="leader-card reveal">
               <img className="leader-photo" src={`/team/${file}`} alt={name} />

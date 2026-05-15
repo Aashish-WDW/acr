@@ -35,7 +35,7 @@ export default function ProjectsPage() {
 
       <section className="featured-section">
         <div className="section-tag reveal">COMMISSIONED</div>
-        <div className="section-heading reveal reveal-d1">Channe Kothapalli Solar Plant</div>
+        <div className="section-heading reveal reveal-d1">Chennekothapalli Solar Plant</div>
 
         <div className="featured-card">
           <div className="beam-scanner" />
@@ -44,18 +44,18 @@ export default function ProjectsPage() {
             <div className="feat-illus" style={{ padding: 0, position: "relative", overflow: "hidden", minHeight: "360px", display: "flex", alignItems: "stretch" }}>
               <img
                 src="https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=800&q=80"
-                alt="Channe Kothapalli solar plant"
+                alt="Chennekothapalli solar plant"
                 loading="eager"
                 style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center", display: "block", minHeight: "360px" }}
               />
               <div style={{ position: "absolute", inset: 0, background: "linear-gradient(135deg, rgba(5,145,66,0.18) 0%, rgba(5,145,66,0.04) 60%, transparent 100%)" }} />
               <div style={{ position: "absolute", bottom: "1.25rem", left: "1.25rem", fontFamily: "'Share Tech Mono',monospace", fontSize: "0.62rem", letterSpacing: "0.18em", color: "#fff", background: "rgba(5,145,66,0.72)", padding: "5px 12px", textTransform: "uppercase" }}>
-                Channe Kothapalli · 2.5 MW
+                Chennekothapalli · 2.5 MW
               </div>
             </div>
 
             <div className="feat-specs">
-              <div className="proj-name">Channe Kothapalli</div>
+              <div className="proj-name">Chennekothapalli</div>
               <div className="proj-loc">
                 <div className="diamond" />
                 Ground-Mounted Solar · India
